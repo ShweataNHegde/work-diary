@@ -1,8 +1,8 @@
 ---
 layout: home
-title: 'Eleventy Duo'
+title: 'Internship Diary 2022'
 ---
 
-# Hello World
+# Internship Diary 2022
 
-Eleventy Duo is a minimal and beautiful Eleventy theme for personal blogs. Checkout the [project's github repo](https://github.com/yinkakun/eleventy-duo) for more info.
+As a part of my coursework, I'm teaching at [Excel Public School, Mysore](https://excelpublicschool.com/eps/) for two months (Nov. and Dec. 2022). I've never formally taught high schoolers. It would be interesting to document my experience and learnings. 

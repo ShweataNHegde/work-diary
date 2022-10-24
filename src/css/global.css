@@ -231,3 +231,10 @@ mark {
   white-space: nowrap;
   width: 1px;
 }
+
+::selection {
+  background: #6841636f; /* WebKit/Blink Browsers */
+}
+::-moz-selection {
+  background: #6841636f; /* Gecko Browsers */
+}
