@@ -238,3 +238,8 @@ mark {
 ::-moz-selection {
   background: #6841636f; /* Gecko Browsers */
 }
+
+a {
+  text-decoration: none;
+  color: var(--primary-color); 
+}
