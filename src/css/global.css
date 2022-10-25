@@ -68,8 +68,7 @@ hr {
 
 a {
   text-decoration: none;
-  color: inherit;
-  text-decoration: inherit;
+  color: var(--primary-color);
   transition: all 200ms linear;
   text-decoration: underline;
 }
@@ -237,9 +236,4 @@ mark {
 }
 ::-moz-selection {
   background: #6841636f; /* Gecko Browsers */
-}
-
-a {
-  text-decoration: none;
-  color: var(--primary-color); 
 }
