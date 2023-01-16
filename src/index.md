@@ -1,6 +1,6 @@
 ---
 layout: home
-title: 'Internship Diary 2022'
+title: 'My future'
 ---
 
 # What Next? 
