@@ -1,7 +1,7 @@
 ---
 title: New Chapter | Science Communication Internship at TIGS, Banglore
 date: '2023-08-30'
-tags: [lifeupdate]
+tags: [life]
 description: 
 ---
 This website never really saw me, did it? Well, I have now graduated. Starting from Sept. 1st, I'm starting as a science communication intern at [Tata Institute of Genetics and Society](https://tigs.res.in/) (TIGS), Banglore! I'll be working with [Saveetha Meghanathan](https://tigs.res.in/people/scientists/saveetha-meganathan/) on various [community engagement](https://tigs.res.in/community-engagement/) activities. 
